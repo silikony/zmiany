@@ -2,7 +2,7 @@
 
 
 ###Zmiana I
-R. Paweł
+`R. Paweł
 G. Andrzej
 Sz. Marian
 I. Michał
@@ -11,7 +11,7 @@ P. Bogusław
 Ł. Robert
 D. Krzysztof
 Ł. Stanisław
-B. Stanisław		
+B. Stanisław`
 
 
 ###Zmiana II
