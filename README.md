@@ -3,14 +3,23 @@
 
 ###Zmiana I
 `R. Paweł
+
 G. Andrzej
+
 Sz. Marian
+
 I. Michał
+
 S. Waldemar
+
 P. Bogusław
+
 Ł. Robert
+
 D. Krzysztof
+
 Ł. Stanisław
+
 B. Stanisław`
 
 
