@@ -26,7 +26,7 @@ D. Tomasz
 J. Bogusława
 
 #Zmiana III
-Lis Zbigniew
+L. Zbigniew
 S. Jan
 Z. Zbigniew 
 P. Marek
