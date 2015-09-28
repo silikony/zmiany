@@ -1,11 +1,11 @@
-###Rozkład zmian od dnia 13 VII 2015
+#Rozkład zmian od dnia 13 VII 2015
 
 
-#Zmiana I
-R. Paweł
-G. Andrzej
-Sz. Marian
-I. Michał
+###Zmiana I
+##R. Paweł
+##G. Andrzej
+##Sz. Marian
+##I. Michał
 S. Waldemar
 P. Bogusław
 Ł. Robert
@@ -14,7 +14,7 @@ D. Krzysztof
 B. Stanisław		
 
 
-#Zmiana II
+###Zmiana II
 Cz. Janusz 
 G. Rafał
 M. Leszek
@@ -25,7 +25,7 @@ S. Wojciech
 D. Tomasz
 J. Bogusława
 
-#Zmiana III
+###Zmiana III
 L. Zbigniew
 S. Jan
 Z. Zbigniew 
