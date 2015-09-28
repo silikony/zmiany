@@ -2,10 +2,10 @@
 
 
 ###Zmiana I
-##R. Paweł
-##G. Andrzej
-##Sz. Marian
-##I. Michał
+R. Paweł
+G. Andrzej
+Sz. Marian
+I. Michał
 S. Waldemar
 P. Bogusław
 Ł. Robert
